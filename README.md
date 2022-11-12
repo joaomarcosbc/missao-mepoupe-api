@@ -1,13 +1,13 @@
 # To-do
 
-- [X] Endpoint Calculate Mean
-    - [x] Service
-    - [x] Controller
-    - [x] Routes
-    - [x] Tests
-- [ ] Endpoint CEP
-    - [ ] Service
-    - [ ] Controller
-    - [ ] Routes
-    - [ ] Tests
+- [x] Endpoint Calculate Mean
+  - [x] Service
+  - [x] Controller
+  - [x] Routes
+  - [x] Tests
+- [x] Endpoint CEP
+  - [x] Service
+  - [x] Controller
+  - [x] Routes
+  - [x] Tests
 - [ ] Docker

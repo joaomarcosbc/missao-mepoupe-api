@@ -6,6 +6,6 @@ const routerMean = Router();
 
 const calculateMeanController = new CalculateMeanController();
 
-routerMean.post("/calculateMean", calculateMeanController.handle);
+routerMean.post("/", calculateMeanController.handle);
 
 export { routerMean };
