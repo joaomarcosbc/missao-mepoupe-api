@@ -7,7 +7,9 @@
     "dev": "tsx watch src/server.ts",
     "test": "jest",
     "test:silent": "jest --watchAll --silent --noStackTrace",
-    "test:coverage": "jest --coverage --silent --noStackTrace"
+    "test:coverage": "jest --coverage --silent --noStackTrace",
+    "start:prod": "npm install pm2:production && yarn pm2:logs",
+    "build": "rimraf ./dist && tsc"
   },
   "keywords": [],
   "author": "",
