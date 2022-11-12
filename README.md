@@ -21,6 +21,11 @@
 ## Endpoints:
 
 ###  Cálculo da média(POST): localhost:3035/mean/ 
-     Parâmetros: "firstNumber" e "secondNumber"
+     {
+        "firstNumber": ,
+        "secondNumber": 
+     }
 ###  Consulta de CEP(POST): localhost:3035/cep/
-     Parâmetro: "cep"
+     {
+        "cep": ""
+     }
