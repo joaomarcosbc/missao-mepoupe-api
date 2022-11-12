@@ -15,8 +15,10 @@
 
 # Instruções
 
-- Comando utilizado ( na raiz do projeto ) para criar imagem: docker build -t apimepoupe .
-- Comando utilizado para levantar container: docker run -d -p 3035:3035 --name=apimepoupe apimepoupe
+### Comando utilizado ( na raiz do projeto ) para criar imagem: 
+    docker build -t apimepoupe .
+### Comando utilizado para levantar container:
+    docker run -d -p 3035:3035 --name=apimepoupe apimepoupe
 
 ## Endpoints:
 
