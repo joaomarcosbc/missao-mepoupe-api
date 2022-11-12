@@ -5,9 +5,9 @@
   - [x] Controller
   - [x] Routes
   - [x] Tests
-- [ ] Endpoint CEP
+- [x] Endpoint CEP
   - [x] Service
   - [x] Controller
   - [x] Routes
-  - [ ] Tests
+  - [x] Tests
 - [ ] Docker
