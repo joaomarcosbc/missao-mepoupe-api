@@ -10,6 +10,6 @@ app.use(express.json());
 app.use(router);
 app.use(catchError);
 
-app.listen(3000, () => {
-  console.log("Running on 3000");
+app.listen(3035, () => {
+  console.log("Running on 3035");
 });
